@@ -13,7 +13,7 @@ Here is the presentation (https://docs.google.com/presentation/d/1uD7DshmIraw06b
 ### BUNNY's Services 
 - Directions using Google Maps
 <img src="./Images/Directions.png" width= 40% />
-- Schools, Parking, Garbage 
+- Schools, Parking, Garbage Services
 <img src="./Images/PSG.png" width= 40% />
 - Events near me
 <img src="./Images/Events.png" width= 40% />
