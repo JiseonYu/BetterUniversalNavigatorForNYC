@@ -1,8 +1,14 @@
-# Better Universal Navigator for NYC (bunny)
+# Better Universal Navigator for NYC (BUNNY 🐇)
 
 This project was from an internship at Cornell Tech. 
 
 ## Demo
 🚀🚀 Coming Soon 🚀🚀
 
-Here is the presentation (https://docs.google.com/presentation/d/150BS6-OSX3RGW9oLY8Q10TlxIt7-DMTZVeIPXMg4RpQ/edit#slide=id.g6e02cbc798_1_10)
+Here is the presentation (https://docs.google.com/presentation/d/1uD7DshmIraw06bgC7Afdqtx-tuDoRfdNouJDn49vOxo/edit#slide=id.gcb9a0b074_1_0)
+
+BUNNY's Services 
+- Directions. 
+- Schools, Parking, Garbage.
+- Events near me.
+- Donation location.
