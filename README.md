@@ -5,10 +5,6 @@
 
 This project has not been open-sourced, unfortunately. However, I am more than happy to create a sample web application project! Please contact me [HERE](https://www.linkedin.com/in/jiseonyu/)😄!
 
-## Demo
-🚀🚀 Coming Soon 🚀🚀
-
-
 ### BUNNY's Services 
 - Directions using Google Maps
 <img src="./Images/Directions.png" width= 40% />
