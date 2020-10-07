@@ -8,7 +8,6 @@ This project has not been open-sourced, unfortunately. However, I am more than h
 ## Demo
 🚀🚀 Coming Soon 🚀🚀
 
-Here is the presentation (https://docs.google.com/presentation/d/1uD7DshmIraw06bgC7Afdqtx-tuDoRfdNouJDn49vOxo/edit#slide=id.gcb9a0b074_1_0)
 
 ### BUNNY's Services 
 - Directions using Google Maps
